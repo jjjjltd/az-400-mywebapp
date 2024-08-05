@@ -15,7 +15,7 @@ if (!app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 app.UseStaticFiles();
-// Change feature/myFeature-1
+// Change feature/myFeature-1 again
 app.UseRouting();
 
 app.UseAuthorization();
